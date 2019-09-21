@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class BinaryExercise {
+public class AlgorithmsExercise {
 
     public static void main(String[] args) {
         int[] arr0 = {1,5,7,8,9,11,18,19,20,25};
